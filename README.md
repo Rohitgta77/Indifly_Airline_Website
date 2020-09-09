@@ -9,25 +9,30 @@ Basically, it has three modules. And each module has no. of subpages.
 <img src="/img/screenshot12.PNG" width="200"> <img src="/img/screenshot11.PNG" width="200">
 <img src="/img/screenshot14.PNG" width="200">
 
-<b> MODULES </b>
+<h1> MODULES - </h1>
 
 <img src="/img/screenshot2.PNG" width="400"> 
 
 Tickets are the documents that confirm purchase and guarantee a seat on the airplane for the chosen journey. 
 
-<b> General / User Modules </b>
+<h1> General / User Modules </h1>
 
 <img src="/img/screenshot3.PNG" width="400"> 
 
 The imaginary airlines company is based in India region and operates budget flights between India cities. The website of the company is simple. There are nine subpages which are easy to navigate through the index. The background and simple font style are the same in all the pages. 
 
-<b>Admin Modules </b>
+<h1>Admin Modules </h1>
 
 <img src="/img/screenshot4.PNG" width="400"> 
 
 The website of the company is simple. There are five subpages which are easy to navigate through the index. The background and simple font style are the same in all the pages.
 
+<h1></h1>
 
+
+<h1></h1>
+<h1></h1>
+<h1></h1>
 <img src="/img/screenshot5.PNG" width="200">
 <img src="/img/screenshot6.PNG" width="200">
 
