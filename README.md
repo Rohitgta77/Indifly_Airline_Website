@@ -41,3 +41,10 @@ The database used in the application is SQLsever which comes installed with Visu
 
 
 IndiFly is online Airline reservation system, which enable customer to check the availability tickets & book their tickets . It makes the customer easy to get ticket online instead of queue up to buy the tickets. Its helps we reduce  the paper work.
+
+# FAQ
+How to run the project?
+Install visual Studio 2019 then open the project by import website in visual Studio 2019.
+
+What's the minimum framework needed?
+.net Framework 4.5.0 and update visual Studio.
