@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "IndiFly", "..\..\..\..\Desktop\IndiFly\", "{02EE30A2-1472-42C9-B966-DF3DA0D8DDB6}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51110"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\IndiFly\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51110\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51110"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\IndiFly\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51110\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51110"
+		SlnRelativePath = "..\..\..\..\Desktop\IndiFly\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02EE30A2-1472-42C9-B966-DF3DA0D8DDB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02EE30A2-1472-42C9-B966-DF3DA0D8DDB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

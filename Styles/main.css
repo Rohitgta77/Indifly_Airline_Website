@@ -1,0 +1,42 @@
+﻿.fbox span
+ {
+    font-size:60px;
+    
+}
+body,div,ul,ol,li,h1,h2,h3,h4,h5,h6,form,p {
+    padding:0px;
+    margin:0px;
+  
+}
+.rohittext{
+    font-family:Cooper;
+    color:white;
+}
+.ahead{
+    color:white;
+    font-weight:bold;
+}
+.rohito {
+    opacity:inherit;
+background-color:orange;
+margin-top:0px;
+}
+.rohitg {
+    font-family:MS Reference Sans Serif;
+background-color:black;
+color: white;
+
+}
+.rohitcontainer{
+    margin-left:20px;
+    margin-right:20px;
+    background-color:orange;
+}
+.rohitlogin{
+    font-weight:bold;
+    color:red;
+}
+.rcontainter {
+padding-left:80px;
+padding-right:80px;
+}

@@ -1,0 +1,77 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPageAdmin.master.cs" Inherits="MasterPageAdmin" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>
+        <asp:ContentPlaceHolder ID="ContentTitle" runat="server"></asp:ContentPlaceHolder>
+    </title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+<meta name="charset" content="UTF-8" />
+<meta name="robots" content="index, follow" />
+
+<link rel="stylesheet" href="st/css/hover-min.css" />
+<link rel="stylesheet" href="st/css/bootstrap.min.css" />
+<link rel="stylesheet" href="st/css/font-awesome.min.css" />
+
+
+    <link href="Styles/animate.css" rel="stylesheet" />
+
+    <link href="Styles/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" rel="stylesheet" />
+    <link href="Styles/bootstrap-3.3.7-dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="Styles/bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="Styles/bootstrap-3.3.7-dist/js/jquery.js"></script>
+    <script src="Styles/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+    <link href="Styles/main.css" rel="stylesheet" />
+
+</head>
+
+
+<body>
+
+    <header>
+
+
+            <div class=" nav  navbar-default navbar-fixed-top ">
+                <div class="rohito">
+                    <div class="container">
+                        <a href="home.aspx" class="navbar-brand">
+                            <div class=" ahead">
+                                <span class="glyphicon glyphicon-plane" style="padding-right: 0px;"></span>
+                                <strong style="font-family: Cooper;">IndiFly
+                                </strong>
+
+                            </div>
+                        </a>
+
+
+                        <ul class="nav nav-tabs  navbar-right">
+                            <li> <a href="admin.aspx" class="ahead">
+                               Home</a></li>
+                            <li><a href="update.aspx" class="ahead">Update Flight</a></li>       
+                            <li><a href="login.aspx" class="ahead">LogOut</a></li>
+                            
+                        </ul>
+
+
+                    </div>
+                </div>
+            </div>
+       
+    </header>
+
+
+
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder id="ContentBody" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

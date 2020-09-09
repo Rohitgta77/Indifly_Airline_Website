@@ -1,0 +1,39 @@
+@font-face {
+	font-family: 'century gothic';
+	src: url('../fonts/gothic.eot');
+	src: local('century gothic'), url('../fonts/gothic.woff') format('woff'), url('../fonts/gothic.ttf') format('truetype');
+}.header{padding:15px;}.dark-purple{background:purple;color:#fff;}
+.logo{color:#fff;font-size:40px;font-family:georgia;font-style:italic;}.social{text-align:right;padding:10px 15px;}.social ul{list-style:none;text-align:right;float:right;}.social ul li{float:left;}.social ul li a{float:left;font-size:24px;background:#fff;color:purple;width:42px;padding:4px 0px;margin-left:5px;text-align:center;border-radius:50%;}
+.content{padding:0px;float:left;}
+.menu{background:rgb(90,90,90);padding:25px 0px;margin:0px;float:left;position:fixed;top:0px;height:100%;overflow:hidden;}
+.menu ul{list-style:none;padding:0px;margin:0px;}
+.menu li{color:#eee;float:left;margin:0px;padding:0px;width:100%;}
+.menu li a{color:#eee;float:left;padding:8px 30px;text-decoration:none;width:100%;transition:all 0.5s ease;}
+li.has_menu a i:nth-child(2){float:right;margin-top:3px;}
+.menu li a:hover{background:rgb(175,171,171);color:#fff;padding-left:40px;}
+.menu li a.active{background:rgb(175,171,171);color:#fff;padding-left:40px;}
+.submenu{display:none;float:left;margin-left:15px;background:#888;width:100%;}
+.submenu li{float:left;}
+.submenu li a{float:left;padding-left:50px;}
+/*.menu li a:focus .submenu{display:block;}*/
+.textleft{text-align:left;float:left;}
+.textright{text-align:right;float:right;}
+.textcenter{text-align:center;}
+.column{padding:25px 15px;}
+.column1{background:rgb(132,151,176);min-height:280px;color:#fff;}
+.column2{background:rgb(156,195,230);min-height:280px;color:#fff;}
+.column3{background:rgb(64,64,64);min-height:280px;color:#fff;}
+.column4{background:rgb(90,90,90);min-height:280px;color:#fff;}
+.nopadding{padding:0px;}
+.banner{background:rgb(90,90,90);margin:0px;padding:31.5px;text-align:center;border-bottom:1px solid #777;color:#fff;}
+/* Login */
+.main_login{min-height:340px;background-color:#ddd;margin-top:100px;border-radius:12px;-moz-border-radius:12px;-webkit-border-radius:12px;-o-border-radius:12px;-khtml-border-radius:12px;}
+.main_login h2{border-bottom:1px solid #999;padding:15px 0px;}
+/* Login */
+/* Lightbox */
+.lightbox{width:100%;height:100%;position:fixed;top:0px;background:rgba(0,0,0,0.8);display:none;}
+.lightbox_head{background:#e9e9e9;color:#999;padding:15px;border-bottom:2px solid #666;margin-top:80px;}
+.lightbox_body{background:#fff;color:#999;padding:15px;float:left;}
+h2.close{font-size:35px;}
+/* Lightbox */
+.pro_img{transition:all 0.5s ease;margin:auto;}
